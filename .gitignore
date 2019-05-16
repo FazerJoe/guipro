@@ -30,3 +30,7 @@
 *.sdf
 PortAL/PortAL_vs2012.vcxproj.user
 *.zip
+
+#vim
+.*.un~
+*~
